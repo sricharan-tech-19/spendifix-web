@@ -1,5 +1,5 @@
 # Spendifix - Smart Expense Tracker
-
+try it: https://spendifix.vercel.app/
 A comprehensive web-based expense tracking application built with HTML, CSS, and JavaScript. Track your income and expenses with beautiful visualizations, multiple currency support, and powerful filtering capabilities.
 
 ## 🌟 Features
