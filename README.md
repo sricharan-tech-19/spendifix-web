@@ -191,11 +191,6 @@ The application is fully responsive and works on:
 - Zoom out if elements appear cut off
 - Clear browser cache
 
-### Browser Compatibility
-- Chrome 60+
-- Firefox 55+
-- Safari 12+
-- Edge 79+
 
 ## 🔒 Privacy & Security
 
