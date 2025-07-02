@@ -30,15 +30,6 @@ A comprehensive web-based expense tracking application built with HTML, CSS, and
 2. Open `index.html` in your web browser
 3. Start tracking your expenses immediately!
 
-### File Structure
-```
-spendifix/
-├── index.html          # Main HTML file
-├── styles.css          # CSS styles and themes
-├── script.js           # JavaScript functionality
-└── README.md           # This documentation file
-```
-
 ## 📖 How to Use
 
 ### Adding Transactions
